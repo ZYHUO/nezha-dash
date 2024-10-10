@@ -31,5 +31,7 @@
 | 英语     | en   | 是           |
 | 日语     | ja   | 是           |
 
-![screen-shot-one](/.github/shotOne.png)
-![screen-shot-two](/.github/shotTwo.png)
+![screen-shot-one](/.github/shot-1.png)
+![screen-shot-two](/.github/shot-2.png)
+![screen-shot-three](/.github/shot-3.png)
+![screen-shot-four](/.github/shot-4.png)
